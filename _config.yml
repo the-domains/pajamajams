@@ -1,0 +1,28 @@
+name: PajamaJams
+favicon: null
+layout_spectrum: 0.4795054462738335
+typography_spectrum: 0.9704500648658723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.05188446072861552
+  lightness: 0.2716920666862279
+  saturation: 0.47316995821893215
+  rhythmicContrast: 0.12460044724866748
+purpose: []
